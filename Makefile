@@ -1,5 +1,3 @@
-SHELL := /bin/bash
-
 all: a.out
 
 a.out:
